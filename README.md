@@ -1,1 +1,2 @@
-# opd-rizal.github.io
+# Test site for RHU Rizal information system
+#
