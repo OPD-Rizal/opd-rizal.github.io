@@ -1,2 +1,2 @@
-# Test site for RHU Rizal information system
+# AMHOP Website
 #
